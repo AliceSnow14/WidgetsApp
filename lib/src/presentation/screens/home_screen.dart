@@ -11,7 +11,7 @@ class HomeScreen extends StatelessWidget {
       appBar: AppBar(
         title: const Text("Widgets Apps"),
       ),
-      backgroundColor: const Color.fromARGB(255, 149, 226, 236),
+      backgroundColor: const Color.fromARGB(255, 199, 207, 209),
       body: const _HomeView(),
     );
   }
